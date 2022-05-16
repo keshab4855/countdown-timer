@@ -1,0 +1,14 @@
+body {
+  background: rgba(0, 0, 0, 0.121);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+p {
+  font-size: 60px;
+  margin-top: 0px;
+  /* background: rgba(0, 0, 0, 0.342); */
+  color: rgba(0, 38, 255, 0.685);
+  padding: 1rem;
+  border-radius: 10px;
+}
