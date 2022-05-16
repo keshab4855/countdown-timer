@@ -11,4 +11,6 @@ p {
   color: rgba(0, 38, 255, 0.685);
   padding: 1rem;
   border-radius: 10px;
+  background: linear-gradient(145deg, #c7bfbf, #ece3e3);
+  box-shadow: 22px 22px 44px #bcb4b4, -22px -22px 44px #fef4f4;
 }
